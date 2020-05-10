@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PICovid-19</string>
+    <string name="todo">TODO</string>
+    <string name="date">minggu_20_oktober_2020</string>
+    <string name="world">Global</string>
+    <string name="indonesia">indonesia</string>
+    <string name="riwayat">riwayat</string>
+    <string name="indonesia_summary_data">Pie Chart Covid-19 Di Indonesia</string>
+    <string name="confirmed">Terkonfirmasi</string>
+    <string name="recovered">Sembuh</string>
+    <string name="deaths">Meninggal</string>
+    <string name="last_update">Update Terakhir</string>
+    <string name="corona">Dari Covid-19</string>
+    <string name="world_summary_data">Pie Chart Covid-19 Di Dunia</string>
+    <string name="keterangan">Ket :</string>
+    <string name="covid">Informasi Penyebaran Covid-19</string>
+    <string name="news">Lapor Pandemi Covid-19</string>
+    <string name="credit">Portal Informasi Covid-19 Version 0.1 Tubes</string>
+    <string name="dev">Arif Wicaksono</string>
+</resources>

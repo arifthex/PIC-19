@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765917271044",
+    "firebase_url": "https://picovid-19.firebaseio.com",
+    "project_id": "picovid-19",
+    "storage_bucket": "picovid-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765917271044:android:b971090d2d95f7dc421151",
+        "android_client_info": {
+          "package_name": "com.example.picovid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765917271044-m6ircak0ajvnc76lv4pmndqk2onqa3e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NQ4Yhq1dMSd_Ljhxrsy0NjmQBS4YE9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765917271044-m6ircak0ajvnc76lv4pmndqk2onqa3e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
